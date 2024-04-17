@@ -108,8 +108,6 @@ if __name__=='__main__':
     frames=args.frames
     timesteps=args.timesteps
     path=args.path
-    timesteps=120
-    frames=6
     length=split_test(frames=frames,timesteps=timesteps,path=path,series=True)
 
                     
