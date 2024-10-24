@@ -4,11 +4,7 @@ MCSRSI is a dataset based on Fengyun-4A(FY-4A) for mesoscale convective system d
 ## How to use
 We provide a script for partitioning sequence data and provide three default partitioned datasets.
 #### Download the dataset
-The MCSRSI is about 20G. You can download the origin dataset from kuake cloud or google cloud
-|||
-|:---:|:---:|
-|Kuake cloud|[MCSRSI](https://pan.quark.cn/s/c8cf2eb294d3)|
-
+Because of the commercial use constraint, we can not make public our dataset in the Internet. If you want to use our dataset for future explore, pleaese contact us at liangjiajun2002@163.com. 
 #### Divide the dataset
 You can run the spilt.py to divide MCSRSI into different sequence dataset. For example, you can exec the follow command to generate an image sequence with a length of 6 and an interval of 30min.   
 ```
